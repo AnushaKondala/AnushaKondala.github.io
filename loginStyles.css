@@ -1,0 +1,10 @@
+body{
+    margin: 100px auto;
+    max-height: 100vh;
+}
+
+button.LoginButton:hover{
+    background-color: black;
+    color:black;
+    border: 2px solid #9649f3;
+}
